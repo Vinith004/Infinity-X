@@ -1,0 +1,5 @@
+.home {
+    padding: 1rem;
+    overflow: auto;
+    height: calc(100vh - 110px);
+}

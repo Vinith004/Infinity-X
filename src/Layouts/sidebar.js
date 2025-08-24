@@ -7,7 +7,7 @@ function Sidebar() {
       <h3>Sidebar Menu</h3>
       <ul>
          <li><Link className="active link" to="/">Home</Link></li>
-         <li><Link className="link" to="/about">About</Link></li>
+         <li><Link className="link" to="/Sector">Sector Detail</Link></li>
          <li><Link className="link" to="/contact">Contact</Link></li>
       </ul>
     </aside>
